@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Definição das Estruturas
 typedef struct { 
     char cidade[20];
     float *temperatura; 
